@@ -1,1 +1,1 @@
-# IS660_Stats_thinking_in_Data_Science
+# IS630_Stats_thinking_in_Data_Science
